@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/gulnurumur" target="blank"><img src="https://img.shields.io/twitter/follow/gulnurumur?logo=twitter&style=for-the-badge" alt="gulnurumur" /></a> </p>
 
-- 📝 I write articles on [https://www.gulnurumur.com/blog](https://www.gulnurumur.com/blog)
-
 - ⚡ Fun fact **I have a great passion for sci-fiction books.**
 
 <h3 align="left">Connect with me:</h3>

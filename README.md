@@ -1,11 +1,23 @@
+<h1 align="center">Hi 👋, I'm Gülnur</h1>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
+
+- 🌱 I’m currently learning **Frameworks**
+
+- 👨‍💻 All of my projects are available at [https://www.gulnurumur.com/](https://www.gulnurumur.com/)
+
+- 📫 How to reach me **gulnurumur@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/gulnurumur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gulnurumur" height="30" width="40" /></a>
+<a href="https://instagram.com/gulnurumur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gulnurumur" height="30" width="40" /></a>
+<a href="https://www.behance.net/gulnurumur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gulnurumur" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulnurumur&show_icons=true&locale=en" alt="gulnurumur" /></p>
 
 
-I’m Gülnur from Turkey, and I do Design and Development. I really enjoy learning languages and frameworks. I usually work on web development. Developing something is my biggest passion.I also love to read science fiction books. You can check out my website at www.gulnurumur.com or https://www.instagram.com/gulnurumur/ .
 
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gulnurumur&show_icons=true)  
 
 
 

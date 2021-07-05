@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://www.gulnurumur.com/](https://www.gulnurumur.com/)
-
 - 📫 How to reach me **gulnurumur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
